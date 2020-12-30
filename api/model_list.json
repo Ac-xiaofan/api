@@ -1,0 +1,30 @@
+{
+    "models": [
+		"girls-frontline/AN-94",
+		"girls-frontline/carcano1891_2201",
+		"girls-frontline/carcano1938_2904",
+		"girls-frontline/carcano1938_2905",
+		"girls-frontline/cbjms_3503",
+		"girls-frontline/contender_2302",
+		"girls-frontline/dp12_4201",
+		"girls-frontline/DSR50_2101",
+		"girls-frontline/g11_4102",
+		"girls-frontline/G36C_1202",
+		"girls-frontline/g36c_3802",
+		"girls-frontline/g36_1904",
+		"girls-frontline/g36_2407",
+		"girls-frontline/G41_2401",
+		"girls-frontline/hk416_3401",
+		"girls-frontline/HK416_805",
+		"girls-frontline/K2_3301",
+		"girls-frontline/kp31",
+		"girls-frontline/lewis_3502",
+		"girls-frontline/m590_1806",
+		"girls-frontline/m950a_2303",
+		"girls-frontline/m1903_5",
+		"girls-frontline/sr3mp_4101",
+    ],
+    "messages": [
+        "嗨！主人我来喽 ~"
+    ]
+}
